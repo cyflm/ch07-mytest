@@ -30,4 +30,7 @@ public class IndexTest {
     public void test2() {
 
     }
+    public void test3(){
+    
+    }
 }
