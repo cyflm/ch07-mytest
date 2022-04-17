@@ -1,0 +1,3 @@
+ObjectMapper om = new ObjectMapper();
+String json = om.writeValueAsString(封装的对象);
+、
