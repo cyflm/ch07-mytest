@@ -22,4 +22,8 @@ public class IndexTest {
     public String showMainPage() {
         return "test";
     }
+
+    public void test1() {
+
+    }
 }
